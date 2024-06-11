@@ -2,6 +2,8 @@
 
 ## :one: Ajax란?
 
+![image](https://github.com/SSOFERRET/Modern-JS-DeepDive-Study/assets/148465774/9119d217-1fb7-4c5c-b116-d936b6c5ecf2)
+
 - Asynchronous JavaScript and XML 의 준말.
 - 자바스크립트를 사용하여 브라우저가 서버에게 비동기 방식으로 데이터를 요청하고, 서버가 응답한 데이터를 수신하여 웹페이지를 동적으로 갱신하는 프로그래밍 방식.
 - XMLHttpRequest 객체 기반. 이는 HTTP 비동기 통신을 위한 메서드와 프로퍼티를 제공한다.
