@@ -1,4 +1,4 @@
-# 49장. Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축
+# :fire: 49장. Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축
 
 - Bable: 트랜스파일러
 - Webpack: 모듈 번들러
